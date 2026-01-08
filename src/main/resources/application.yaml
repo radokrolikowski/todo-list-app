@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: todo-list
+
+server:
+  port: 8081
+
+todo:
+  max-end-date: "2026-12-01"
